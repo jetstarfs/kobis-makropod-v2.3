@@ -5,8 +5,9 @@ v2.3
 
 <img width="1090" height="487" alt="Screenshot 2026-01-28 112529" src="https://github.com/user-attachments/assets/c04c31e1-969a-4b56-afe1-521ebc039741" />
 
-<img width="740" height="402" alt="Screenshot 2026-01-29 172158" src="https://github.com/user-attachments/assets/3e493689-445f-4845-b81f-2d49a6a83aa2" />
-<img width="795" height="551" alt="Screenshot 2026-01-29 172151" src="https://github.com/user-attachments/assets/2a94060e-f8a3-4d04-8047-b1a268db4875" />
+
+<img width="795" height="431" alt="Screenshot 2026-01-30 180026" src="https://github.com/user-attachments/assets/947091a0-8b93-47c9-abb0-c48cafcc27e2" />
+<img width="596" height="415" alt="Screenshot 2026-01-30 175950" src="https://github.com/user-attachments/assets/a8026d04-6b52-474a-b34b-cae64d889281" />
 
 
 
